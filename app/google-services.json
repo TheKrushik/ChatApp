@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87512543263",
+    "firebase_url": "https://chat-app-1d1e5.firebaseio.com",
+    "project_id": "chat-app-1d1e5",
+    "storage_bucket": "chat-app-1d1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87512543263:android:46b41c3cedea051e14652a",
+        "android_client_info": {
+          "package_name": "info.krushik.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87512543263-qgj0e6bhbahi6clp98bv29mspsbkejq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.krushik.chatapp",
+            "certificate_hash": "94ec80c5364c410ebb720a2d768f2d4555154477"
+          }
+        },
+        {
+          "client_id": "87512543263-urp4a359mm26os6s3rrrkarfs1uveb36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVlRocQ3058bF9xab-KVeWJPk3cwTKAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87512543263-urp4a359mm26os6s3rrrkarfs1uveb36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
